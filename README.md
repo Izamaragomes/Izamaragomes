@@ -5,7 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🌱 Atualmente estou apredendo o básico de programação;
+
+<div>
+<-
+- 🌱 Atualmente estou apredendo o básico de programação
 - 📫 izamara.gomes104@gmail.com;
 - ⚡ Amante de: gatos, arte e café;
 -->
