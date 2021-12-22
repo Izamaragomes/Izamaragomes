@@ -1,4 +1,4 @@
-### Olá pessoa, me chamo Izamara Gomes! Seja bem-vindes 👋
+### Olá pessoa, me chamo Izamara Gomes! Seje bem-vindes 👋
 
 <!--
 **Izamaragomes/Izamaragomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div> 
  
   <a href="https://instagram.com/i.zamara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/22.maresia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://instagram.com/desenhos_sim_senhor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
  </a> 
   <a href = "mailto:izamara.gomes104@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
